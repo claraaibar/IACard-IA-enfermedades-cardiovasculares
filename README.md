@@ -1,6 +1,6 @@
 # IACard - Algoritmos de aprendizaje automático para la predicción de enfermedades cardiovasculares.
 
-### **Descripción del proyecto:🧬🤖**
+### **Descripción del proyecto: 🧬🤖**
   - Temática: Machine Learning, datos biomédicos.
   - Software empleado: R Studio.
 
